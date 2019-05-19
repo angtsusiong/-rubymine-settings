@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".simplecov" type=".env file" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
+      <mapping ext="passenger" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
