@@ -365,7 +365,7 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558350693891">
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558354877644">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -453,6 +453,12 @@
         <mark key="]" line="8" column="51" />
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.sidekiq" timestamp="1558354930904">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/support/matchers/query_matcher.rb" timestamp="1553739732543">
         <mark key="[" line="2" column="0" />
@@ -572,7 +578,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558352636479">
+      <file name="/Ruby Console" timestamp="1558354933699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
