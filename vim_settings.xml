@@ -145,11 +145,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558320127034">
+      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558323203029">
         <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="37" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
@@ -165,6 +165,12 @@
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/locales/models/shopping_cart/order/zh-TW.yml" timestamp="1557377298050">
         <mark key="[" line="38" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.passenger" timestamp="1558323104323">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="40" column="5" />
+        <mark key="^" line="40" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/spec/spec_helper.rb" timestamp="1557821925395">
         <mark key="[" line="4" column="13" />
@@ -184,11 +190,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/admin/collections_controller.rb" timestamp="1553570946513">
         <mark key="[" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/environments/production.rb" timestamp="1556827485457">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="35" column="41" />
+      <file name="$USER_HOME$/repositories/chu-seafood/config/environments/production.rb" timestamp="1558322578300">
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="54" />
         <mark key="^" line="35" column="56" />
-        <mark key="." line="35" column="41" />
+        <mark key="." line="64" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/controllers/admin/shopping_cart/orders_controller.rb" timestamp="1557377156836">
         <mark key="[" line="29" column="155" />
@@ -343,6 +349,12 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558323898724">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/spec_helper.rb" timestamp="1553738358412">
         <mark key="[" line="95" column="2" />
         <mark key="]" line="95" column="2" />
@@ -357,6 +369,11 @@
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/prompt_powerlevel9k_setup" timestamp="1551873808475">
         <mark key="[" line="1197" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/nginx.conf" timestamp="1558322352570">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/helpers/spreeeed_engine/input/base_helper.rb" timestamp="1553676973586">
         <mark key="[" line="48" column="3" />
@@ -457,6 +474,12 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="29" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/env.production.rb" timestamp="1558322237404">
+        <mark key="[" line="36" column="60" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="23" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/devise/sessions/new.html.erb" timestamp="1553536347594">
         <mark key="[" line="8" column="54" />
       </file>
@@ -554,8 +577,8 @@
       <file name="/chu_seafood_development.public.site_settings [Rails chu-seafood: development]" timestamp="1554557831977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/database.yml" timestamp="1558267776689">
-        <mark key="[" line="19" column="23" />
+      <file name="$USER_HOME$/repositories/chu-seafood/config/database.yml" timestamp="1558321733061">
+        <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
@@ -676,10 +699,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiMgQSBtb2R1bGUgZm9yIGBmb2dgIHRvIHVzZSB0aGUgR29vZ2xlIENsb3VkIGluIGFwcGxpY2F0aW9ucy4KZ2VtICdmb2ctZ29vZ2xlJywgJ34+IDEuOScsICc+PSAxLjkuMSc=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
