@@ -140,10 +140,11 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/.gitignore" timestamp="1557817139701">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/.gitignore" timestamp="1558381689166">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_merge_details.erb" timestamp="1557844061409">
         <mark key="[" line="11" column="0" />
@@ -281,7 +282,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558380785822">
+      <file name="/GraphQL.result.json" timestamp="1558380845312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -531,6 +532,12 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/admin/verification/addresses_controller.rb" timestamp="1553583612218">
         <mark key="[" line="0" column="77" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/.dockerignore" timestamp="1558381637592">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/app/Dockerfile.passenger" timestamp="1557139328338">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="49" column="0" />
@@ -728,50 +735,50 @@
       <jump line="111" column="0" filename="$USER_HOME$/repositories/chu-seafood/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>puma&quot;, &quot;-C&quot;, &quot;config/puma.rb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
       </register>
       <register name="-" type="4">
-        <text>puma&quot;, &quot;-C&quot;, &quot;config/puma.rb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZW0gJ3dlYi1jb25zb2xlJywgJ34+IDQuMC4wJwo=</text>
+        <text encoding="base64">c3BlYy9leGFtcGxlcy50eHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICYmIGFwdC1nZXQgdXBkYXRlIC15ICYmIGFwdC1nZXQgaW5zdGFsbCAteSAtLW5vLWluc3RhbGwtcmVjb21tZW5kcyB5YXJuCg==</text>
+        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICYmIGVjaG8gJ2RlYiBodHRwOi8vZGwueWFybnBrZy5jb20vZGViaWFuLyBzdGFibGUgbWFpbicgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC95YXJuLmxpc3QgXAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UlVOIGFwdC1rZXkgYWR2IC0tZmV0Y2gta2V5cyBodHRwOi8vZGwueWFybnBrZy5jb20vZGViaWFuL3B1YmtleS5ncGcgXAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LnBvd2Vudgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBJZ25vcmUgcG93IGVudmlyb25tZW50IHNldHRpbmdzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgbm9kZWpzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLXNMIGh0dHBzOi8vZGViLm5vZGVzb3VyY2UuY29tL3NldHVwXzEwLnggfCBiYXNoIC0gXAo=</text>
+        <text encoding="base64">Ym93ZXIuanNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBjdXJsIGJ1aWxkLWVzc2VudGlhbCBsaWJwcS1kZXYgZ2l0Cg==</text>
+        <text encoding="base64">Ki5ib3dlcnJjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC15ICYmIGFwdC1nZXQgdXBncmFkZSAteQo=</text>
+        <text encoding="base64">L3ZlbmRvci9hc3NldHMvYm93ZXJfY29tcG9uZW50cwo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I1JVTiBwcmludGYgImRlYiBodHRwOi8vYXJjaGl2ZS5kZWJpYW4ub3JnL2RlYmlhbi8gamVzc2llIG1haW5cbmRlYi1zcmMgaHR0cDovL2FyY2hpdmUuZGViaWFuLm9yZy9kZWJpYW4vIGplc3NpZSBtYWluXG5kZWIgaHR0cDovL3NlY3VyaXR5LmRlYmlhbi5vcmcgamVzc2llL3VwZGF0ZXMgbWFpblxuZGViLXNyYyBodHRwOi8vc2VjdXJpdHkuZGViaWFuLm9yZyBqZXNzaWUvdXBkYXRlcyBtYWluIiA+IC9ldGMvYXB0L3NvdXJjZXMubGlzdAo=</text>
+        <text encoding="base64">IyBpZiB1c2luZyBib3dlci1yYWlscyBpZ25vcmUgZGVmYXVsdCBib3dlcl9jb21wb25lbnRzIHBhdGggYm93ZXIuanNvbiBmaWxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
