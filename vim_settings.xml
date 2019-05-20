@@ -145,11 +145,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558315966503">
-        <mark key="[" line="122" column="17" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="154" column="1" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558317866965">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
@@ -402,7 +402,7 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/spreeeed_crm/spec/rails_helper.rb" timestamp="1553740032784">
+      <file name="$USER_HOME$/repositories/spreeeed_crm/spec/rails_helper.rb" timestamp="1558318045721">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="75" column="0" />
