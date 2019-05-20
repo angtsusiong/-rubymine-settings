@@ -500,11 +500,11 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558393548290">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="5" />
+      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558395461471">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/mailers/application_mailer.rb" timestamp="1552006887533">
         <mark key="[" line="2" column="43" />
@@ -760,49 +760,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBob3N0OiBkYgo=</text>
+        <text encoding="base64">ICBwYXNzd29yZDogY2FzaGJveDcwMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IGFwcF9kYnVzZXI=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3BlYy9leGFtcGxlcy50eHQK</text>
+        <text encoding="base64">ICB1c2VyOiBSYWlscy5hcHBsaWNhdGlvbi5jcmVkZW50aWFscy5kYls6dXNlcl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBob3N0OiBkYgo=</text>
+        <text encoding="base64">ICBwYXNzd29yZDogY2FzaGJveDcwMQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBob3N0OiBsb2NhbGhvc3QK</text>
+        <text encoding="base64">ICBob3N0OiBkYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZGFwdGVyOiBwb3N0Z3Jlc3FsCg==</text>
+        <text encoding="base64">ICBob3N0OiBsb2NhbGhvc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L2NvbmZpZy9jcmVkZW50aWFscy55bWwuZW5jCg==</text>
+        <text encoding="base64">ICBhZGFwdGVyOiBwb3N0Z3Jlc3FsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
+        <text encoding="base64">L2NvbmZpZy9jcmVkZW50aWFscy55bWwuZW5jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnBvd2Vudgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBJZ25vcmUgcG93IGVudmlyb25tZW50IHNldHRpbmdzCg==</text>
+        <text encoding="base64">LnBvd2Vudgo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJZ25vcmUgcG93IGVudmlyb25tZW50IHNldHRpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
