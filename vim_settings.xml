@@ -151,7 +151,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/environments/production.rb" timestamp="1558382319349" />
       <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558350302267">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="11" />
@@ -283,7 +282,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558380845312">
+      <file name="/GraphQL.result.json" timestamp="1558385858156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
