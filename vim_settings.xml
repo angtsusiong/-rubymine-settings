@@ -353,10 +353,10 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558329765780">
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558332964433">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/spec_helper.rb" timestamp="1553738358412">
@@ -708,7 +708,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">OnBpZGZpbGU6IHRtcC9waWRzL3NpZGVraXEucGlkCg==</text>
+        <text encoding="base64">Q01EIFsiYnVuZGxlIiwgImV4ZWMiLCAic2lkZWtpcSJdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHJlZGlzOi8vY2h1LXNlYWZvb2QtcmVkaXMubjFmbjZjLjAwMDEuYXBuZTEuY2FjaGUuYW1hem9uYXdzLmNvbTo2Mzc5LzA=</text>
@@ -717,7 +717,7 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpwcmljZV9jZW50cywgZGVmYXVsdDogMCwgbnVsbDogZmFsc2UK</text>
+        <text encoding="base64">Q01EIFsiYnVuZGxlIiwgImV4ZWMiLCAic2lkZWtpcSJdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OnBpZGZpbGU6IHRtcC9waWRzL3NpZGVraXEucGlkCg==</text>
