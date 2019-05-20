@@ -349,11 +349,11 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558323898724">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558325082594">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/spec_helper.rb" timestamp="1553738358412">
         <mark key="[" line="95" column="2" />
@@ -699,10 +699,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
