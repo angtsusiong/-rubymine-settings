@@ -145,11 +145,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558317866965">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="22" />
+      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558320127034">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="26" column="17" />
-        <mark key="." line="6" column="22" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
@@ -265,7 +265,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558315868208">
+      <file name="/GraphQL.result.json" timestamp="1558318784523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -370,7 +370,11 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/test/test_helper.rb" timestamp="1558314873005" />
+      <file name="$USER_HOME$/repositories/chu-seafood/test/test_helper.rb" timestamp="1558318153664">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/stimulus-rails/.gitignore" timestamp="1554488289575">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="0" />
@@ -447,7 +451,7 @@
       <file name="$USER_HOME$/repositories/ebook-backend/app/mailers/application_mailer.rb" timestamp="1552006887533">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/Gemfile" timestamp="1558259977792">
+      <file name="$USER_HOME$/repositories/kirimi/Gemfile" timestamp="1558318885482">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="18" />
         <mark key="^" line="20" column="19" />
@@ -524,7 +528,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558315551939">
+      <file name="/Ruby Console" timestamp="1558320565012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
@@ -606,7 +610,7 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1558316013154">
+      <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1558318795315">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -672,7 +676,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">CiMgQSBtb2R1bGUgZm9yIGBmb2dgIHRvIHVzZSB0aGUgR29vZ2xlIENsb3VkIGluIGFwcGxpY2F0aW9ucy4KZ2VtICdmb2ctZ29vZ2xlJywgJ34+IDEuOScsICc+PSAxLjkuMSc=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -683,32 +687,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpwcmljZV9jZW50cywgZGVmYXVsdDogMCwgbnVsbDogZmFsc2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBnZW0gJ3NwcmVlZWVkX2VuZ2luZScsIHBhdGg6ICdlbmdpbmVzL3NwcmVlZWVkX2VuZ2luZScK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiMgQSBtb2R1bGUgZm9yIGBmb2dgIHRvIHVzZSB0aGUgR29vZ2xlIENsb3VkIGluIGFwcGxpY2F0aW9ucy4KZ2VtICdmb2ctZ29vZ2xlJywgJ34+IDEuOScsICc+PSAxLjkuMSc=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAjIENvZGluZyBzdHlsZQogIGdlbSAncnVib2NvcCcKICBnZW0gJ3J1Ym9jb3AtcnNwZWMn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBnZW0gJ3JqYicK</text>
+        <text encoding="base64">ICAjIEFkZCBtb3JlIGhlbHBlciBtZXRob2RzIHRvIGJlIHVzZWQgYnkgYWxsIHRlc3RzIGhlcmUuLi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAjIFJ1YnkgSmF2YSBCcmlkZ2UK</text>
+        <text encoding="base64">IyBnZW0gJ3NwcmVlZWVkX2VuZ2luZScsIHBhdGg6ICdlbmdpbmVzL3NwcmVlZWVkX2VuZ2luZScK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnZW0gJ3JqYicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBFTlZbJ0pBVkFfSE9NRSddID0gamF2YV9ob21lIGlmIERpci5leGlzdD8oamF2YV9ob21lKQo=</text>
+        <text encoding="base64">IyAjIFJ1YnkgSmF2YSBCcmlkZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBqYXZhX2hvbWUgPSAnL3Vzci9saWIvanZtL2phdmEtOC1vcGVuamRrJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
