@@ -42,6 +42,7 @@
       <file name="61ca8f6c-c07f-4dbf-87c1-b7e7f73ebe68/dataset_filters/schemas/public/tables/shopping_cart_orders" timestamp="1555579181943">
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/config/initializers/config.rb" timestamp="1558393711598" />
       <file name="$USER_HOME$/repositories/kirimi/spec/rails_helper.rb" timestamp="1557821797242">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="2" column="0" />
@@ -104,11 +105,11 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/database.yml" timestamp="1558392379959">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/repositories/kirimi/config/database.yml" timestamp="1558393634001">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
@@ -499,7 +500,12 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558391441100" />
+      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558393548290">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/mailers/application_mailer.rb" timestamp="1552006887533">
         <mark key="[" line="2" column="43" />
       </file>
@@ -753,11 +759,11 @@
       <jump line="111" column="0" filename="$USER_HOME$/repositories/chu-seafood/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBob3N0OiBkYgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -766,37 +772,37 @@
         <text encoding="base64">c3BlYy9leGFtcGxlcy50eHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2NvbmZpZy9jcmVkZW50aWFscy55bWwuZW5jCg==</text>
+        <text encoding="base64">ICBob3N0OiBkYgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
+        <text encoding="base64">ICBob3N0OiBsb2NhbGhvc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGFwdGVyOiBwb3N0Z3Jlc3FsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnBvd2Vudgo=</text>
+        <text encoding="base64">L2NvbmZpZy9jcmVkZW50aWFscy55bWwuZW5jCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJZ25vcmUgcG93IGVudmlyb25tZW50IHNldHRpbmdzCg==</text>
+        <text encoding="base64">L3B1YmxpYy9hc3NldHMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ym93ZXIuanNvbgo=</text>
+        <text encoding="base64">LnBvd2Vudgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki5ib3dlcnJjCg==</text>
+        <text encoding="base64">IyBJZ25vcmUgcG93IGVudmlyb25tZW50IHNldHRpbmdzCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3ZlbmRvci9hc3NldHMvYm93ZXJfY29tcG9uZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
