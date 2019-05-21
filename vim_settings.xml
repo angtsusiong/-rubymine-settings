@@ -123,6 +123,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/config/settings/production.yml" timestamp="1558398485496">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/redsun-test/app/controllers/application_controller.rb" timestamp="1555526553263">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="21" column="18" />
@@ -506,11 +511,11 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558397510904">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
+      <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558398445591">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/mailers/application_mailer.rb" timestamp="1552006887533">
         <mark key="[" line="2" column="43" />
@@ -526,6 +531,11 @@
         <mark key="]" line="36" column="45" />
         <mark key="." line="36" column="45" />
         <mark key="^" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/config/settings/test.yml" timestamp="1558398438276">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/devise/sessions/new.html.erb" timestamp="1553536347594">
         <mark key="[" line="8" column="54" />
@@ -769,10 +779,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>72af349c8ae2d4642b7277c0f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>72af349c8ae2d4642b7277c0f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -781,37 +791,37 @@
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmljZToK</text>
+        <text encoding="base64">ICBidWNrZXQ6IEVOVi5mZXRjaCgnVFdJTElPX0JVQ0tFVCcpIHsgJ2tpcmltaScgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdG9yYWdlX3RhcmdldDogOmFsaXl1biA6ZmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidWNrZXQ6IEVOVi5mZXRjaCgnVFdJTElPX0JVQ0tFVCcpIHsgJ2tpcmltaScgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHN0b3JhZ2VfdGFyZ2V0ID0gOmFsaXl1bgoKICB1bmxlc3MgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiAgICBzdG9yYWdlX3RhcmdldCA9IDpmaWxlCiAgZW5k</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiBSYWlscy5hcHBsaWNhdGlvbi5jcmVkZW50aWFscy5hbGl5dW5bOmFjY2Vzc19rZXlfaWRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogY2FzaGJveDcwMQo=</text>
+        <text encoding="base64">ICBzZWNyZXRfYWNjZXNzX2tleTogUmFpbHMuYXBwbGljYXRpb24uY3JlZGVudGlhbHMuYWxpeXVuWzpzZWNyZXRfYWNjZXNzX2tleV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBob3N0OiBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBob3N0OiBsb2NhbGhvc3QK</text>
+        <text encoding="base64">dHdpbGlvOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZGFwdGVyOiBwb3N0Z3Jlc3FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L2NvbmZpZy9jcmVkZW50aWFscy55bWwuZW5jCg==</text>
+        <text encoding="base64">c2VydmljZToK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
