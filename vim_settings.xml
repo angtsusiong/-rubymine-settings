@@ -468,6 +468,11 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558460671290">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/new.html.erb" timestamp="1557841583410">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -799,8 +804,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6ZnVsbF9uYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
@@ -811,38 +816,38 @@
       <register name="0" type="4">
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnJlcXVpcmUgJ2FjdGl2ZV9tb2RlbC9yYWlsdGllJwpyZXF1aXJlICdhY3RpdmVfcmVjb3JkL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl9jb250cm9sbGVyL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl92aWV3L3JhaWx0aWUnCnJlcXVpcmUgJ3Nwcm9ja2V0cy9yYWlsdGllJw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6ZnVsbF9uYW1lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzLnJ1YnlnZW1zX3ZlcnNpb24gPSAiMy4wLjMiLmZyZWV6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6c3dpZnRfY29kZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBzLmRhdGUgPSAiMjAxOS0wNC0zMCIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnJlcXVpcmUgJ2FjdGl2ZV9tb2RlbC9yYWlsdGllJwpyZXF1aXJlICdhY3RpdmVfcmVjb3JkL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl9jb250cm9sbGVyL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl92aWV3L3JhaWx0aWUnCnJlcXVpcmUgJ3Nwcm9ja2V0cy9yYWlsdGllJw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzLnJ1YnlnZW1zX3ZlcnNpb24gPSAiMy4wLjMiLmZyZWV6ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzLnJlcXVpcmVkX3J1YnlnZW1zX3ZlcnNpb24gPSBHZW06OlJlcXVpcmVtZW50Lm5ldygiPj0gMCIuZnJlZXplKSBpZiBzLnJlc3BvbmRfdG8/IDpyZXF1aXJlZF9ydWJ5Z2Vtc192ZXJzaW9uPQo=</text>
+        <text encoding="base64">ICBzLmRhdGUgPSAiMjAxOS0wNC0zMCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtZGF0ZXJhbmdlcGlja2VyPi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtdGFnc2lucHV0Pi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
+        <text encoding="base64">ICBzLnJlcXVpcmVkX3J1YnlnZW1zX3ZlcnNpb24gPSBHZW06OlJlcXVpcmVtZW50Lm5ldygiPj0gMCIuZnJlZXplKSBpZiBzLnJlc3BvbmRfdG8/IDpyZXF1aXJlZF9ydWJ5Z2Vtc192ZXJzaW9uPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy10eXBlYWhlYWQuanM+LmZyZWV6ZSwgWyI+PSAwIl0pCg==</text>
+        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtZGF0ZXJhbmdlcGlja2VyPi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1kaXJydHk+LmZyZWV6ZSwgWyI+PSAwIl0pCg==</text>
+        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtdGFnc2lucHV0Pi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
@@ -912,6 +917,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
