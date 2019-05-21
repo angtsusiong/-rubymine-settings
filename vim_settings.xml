@@ -24,11 +24,11 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" timestamp="1558396987597">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" timestamp="1558455221806">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/routes.rb" timestamp="1555578067312">
         <mark key="[" line="6" column="28" />
@@ -111,10 +111,8 @@
         <mark key="." line="17" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/config/database.yml" timestamp="1558394498953">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
@@ -127,12 +125,6 @@
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings/production.yml" timestamp="1558398545132">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/redsun-test/app/controllers/application_controller.rb" timestamp="1555526553263">
         <mark key="[" line="20" column="4" />
@@ -428,12 +420,6 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings/development.yml" timestamp="1558398777648">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-      </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/helpers/spreeeed_engine/input/base_helper.rb" timestamp="1553676973586">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="66" column="10" />
@@ -536,10 +522,9 @@
         <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/config/settings.yml" timestamp="1558398730512">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/mailers/application_mailer.rb" timestamp="1552006887533">
         <mark key="[" line="2" column="43" />
@@ -555,11 +540,6 @@
         <mark key="]" line="36" column="45" />
         <mark key="." line="36" column="45" />
         <mark key="^" line="23" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/settings/test.yml" timestamp="1558398876170">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/devise/sessions/new.html.erb" timestamp="1553536347594">
         <mark key="[" line="8" column="54" />
