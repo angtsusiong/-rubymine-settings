@@ -42,6 +42,7 @@
       <file name="61ca8f6c-c07f-4dbf-87c1-b7e7f73ebe68/dataset_filters/schemas/public/tables/shopping_cart_orders" timestamp="1555579181943">
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/token_authenticatable.rb" timestamp="1558480009176" />
       <file name="$USER_HOME$/repositories/kirimi/spec/rails_helper.rb" timestamp="1557821797242">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="2" column="0" />
@@ -306,7 +307,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/fragment.rb" timestamp="1553576687006">
+      <file name="/fragment.rb" timestamp="1558479928375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
@@ -626,6 +627,7 @@
         <mark key="^" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/lib/grape_devise_token_auth/token_authorizer.rb" timestamp="1558480966381" />
       <file name="$USER_HOME$/repositories/redsun-test/Gemfile" timestamp="1555375072427">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -763,6 +765,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/lib/grape_devise_token_auth/auth_headers.rb" timestamp="1558480680029">
+        <mark key="[" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/helpers/application_helper.rb" timestamp="1552006863877">
         <mark key="[" line="2" column="24" />
