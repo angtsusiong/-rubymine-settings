@@ -467,11 +467,11 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558489341409">
-        <mark key="[" line="48" column="52" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="48" column="71" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558490444889">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="30" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/new.html.erb" timestamp="1557841583410">
         <mark key="[" line="3" column="0" />
@@ -814,10 +814,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8ICFHcmFwZURldmlzZVRva2VuQXV0aC5jaGFuZ2VfaGVhZGVyc19vbl9lYWNoX3JlcXVlc3Q=</text>
+        <text encoding="base64">IHVzaW5nOiBFeGNoYW5nZVJhdGUsIGFzOiA6ZXhjaGFuZ2VfcmF0ZQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICFHcmFwZURldmlzZVRva2VuQXV0aC5jaGFuZ2VfaGVhZGVyc19vbl9lYWNoX3JlcXVlc3Q=</text>
+        <text encoding="base64">IHVzaW5nOiBFeGNoYW5nZVJhdGUsIGFzOiA6ZXhjaGFuZ2VfcmF0ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
