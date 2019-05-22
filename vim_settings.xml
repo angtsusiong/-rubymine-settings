@@ -482,11 +482,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/initializers/devise_token_auth.rb" timestamp="1558458563394">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="3" column="46" />
-        <mark key="^" line="3" column="46" />
+      <file name="$USER_HOME$/repositories/kirimi/config/initializers/devise_token_auth.rb" timestamp="1558483609160">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/rails_helper.rb" timestamp="1558318045721">
         <mark key="[" line="2" column="0" />
@@ -643,7 +643,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558476619134">
+      <file name="/Ruby Console" timestamp="1558483611747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
@@ -731,7 +731,7 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558456688200">
+      <file name="/Dummy.txt" timestamp="1558483204665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -766,8 +766,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/lib/grape_devise_token_auth/auth_headers.rb" timestamp="1558480680029">
+      <file name="$USER_HOME$/repositories/kirimi/lib/grape_devise_token_auth/auth_headers.rb" timestamp="1558483329978">
         <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/helpers/application_helper.rb" timestamp="1552006863877">
         <mark key="[" line="2" column="24" />
@@ -809,10 +812,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text encoding="base64">IHx8ICFHcmFwZURldmlzZVRva2VuQXV0aC5jaGFuZ2VfaGVhZGVyc19vbl9lYWNoX3JlcXVlc3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">IHx8ICFHcmFwZURldmlzZVRva2VuQXV0aC5jaGFuZ2VfaGVhZGVyc19vbl9lYWNoX3JlcXVlc3Q=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
