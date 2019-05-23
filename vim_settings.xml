@@ -111,6 +111,12 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_header.html.erb" timestamp="1558621456297">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="37" />
@@ -381,6 +387,9 @@
         <mark key="]" line="113" column="15" />
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558620462184">
+        <mark key="[" line="7839" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/config/initializers/devise.rb" timestamp="1554210708939">
         <mark key="[" line="14" column="38" />
@@ -662,6 +671,7 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/application.html.erb" timestamp="1558620927112" />
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_invoice_details.erb" timestamp="1557838967882">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
