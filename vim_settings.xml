@@ -107,7 +107,7 @@
       <file name="$USER_HOME$/repositories/chu-seafood/config/settings/development.yml" timestamp="1558326125562">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="18" />
-        <mark key="^" line="32" column="25" />
+        <mark key="^" line="34" column="25" />
         <mark key="." line="17" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/settings/production.yml" timestamp="1558330097174">
+      <file name="$USER_HOME$/repositories/chu-seafood/config/settings/production.yml" timestamp="1558600406526">
         <mark key="[" line="39" column="70" />
         <mark key="]" line="39" column="27" />
         <mark key="." line="39" column="27" />
@@ -305,7 +305,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558592975626">
+      <file name="/GraphQL.result.json" timestamp="1558600163352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
