@@ -111,11 +111,11 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_header.html.erb" timestamp="1558621456297">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_header.html.erb" timestamp="1558626500962">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
@@ -388,8 +388,10 @@
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558620462184">
-        <mark key="[" line="7839" column="18" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558625976570">
+        <mark key="[" line="7846" column="0" />
+        <mark key="]" line="7846" column="0" />
+        <mark key="." line="7846" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/config/initializers/devise.rb" timestamp="1554210708939">
         <mark key="[" line="14" column="38" />
@@ -781,7 +783,11 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/responsive.scss" timestamp="1558619336514" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/responsive.scss" timestamp="1558626010644">
+        <mark key="[" line="222" column="51" />
+        <mark key="]" line="222" column="52" />
+        <mark key="." line="222" column="52" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/app/models/local_transfer.rb" timestamp="1552451844893">
         <mark key="[" line="15" column="40" />
       </file>
@@ -809,11 +815,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHVzaW5nOiBFeGNoYW5nZVJhdGUsIGFzOiA6ZXhjaGFuZ2VfcmF0ZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzaW5nOiBFeGNoYW5nZVJhdGUsIGFzOiA6ZXhjaGFuZ2VfcmF0ZQ==</text>
+        <text>background-color: #606060;</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -822,37 +828,37 @@
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6ZnVsbF9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6c3dpZnRfY29kZQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnJlcXVpcmUgJ2FjdGl2ZV9tb2RlbC9yYWlsdGllJwpyZXF1aXJlICdhY3RpdmVfcmVjb3JkL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl9jb250cm9sbGVyL3JhaWx0aWUnCnJlcXVpcmUgJ2FjdGlvbl92aWV3L3JhaWx0aWUnCnJlcXVpcmUgJ3Nwcm9ja2V0cy9yYWlsdGllJw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzLnJ1YnlnZW1zX3ZlcnNpb24gPSAiMy4wLjMiLmZyZWV6ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBzLmRhdGUgPSAiMjAxOS0wNC0zMCIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAuY29udGFpbmVyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGRAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0ODBweCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzLnJlcXVpcmVkX3J1YnlnZW1zX3ZlcnNpb24gPSBHZW06OlJlcXVpcmVtZW50Lm5ldygiPj0gMCIuZnJlZXplKSBpZiBzLnJlc3BvbmRfdG8/IDpyZXF1aXJlZF9ydWJ5Z2Vtc192ZXJzaW9uPQo=</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtZGF0ZXJhbmdlcGlja2VyPi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IHZpc2libGU7Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5KCVxPHJhaWxzLWFzc2V0cy1ib290c3RyYXAtdGFnc2lucHV0Pi5mcmVlemUsIFsiPj0gMCJdKQo=</text>
+        <text encoding="base64">ICAubWVtYmVyX2NlbnRlciB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
