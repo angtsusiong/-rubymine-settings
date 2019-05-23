@@ -53,7 +53,7 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/lib/spreeeed_engine/spreeeed_engine.gemspec" timestamp="1558593445010">
+      <file name="$USER_HOME$/repositories/chu-seafood/lib/spreeeed_engine/spreeeed_engine.gemspec" timestamp="1558595326499">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="26" column="54" />
         <mark key="^" line="26" column="54" />
@@ -168,12 +168,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile" timestamp="1558453588085">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="108" column="48" />
-        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
@@ -459,11 +453,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile.lock" timestamp="1558451990937">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-      </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558492622265">
         <mark key="[" line="48" column="32" />
         <mark key="]" line="48" column="30" />
@@ -618,7 +607,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1558331951138">
+      <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1558596145279">
         <mark key="[" line="37" column="35" />
         <mark key="]" line="37" column="34" />
         <mark key="^" line="37" column="34" />
@@ -639,7 +628,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558499150248">
+      <file name="/Ruby Console" timestamp="1558596188499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
