@@ -111,11 +111,17 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_header.html.erb" timestamp="1558626500962">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_header.html.erb" timestamp="1558629966666">
+        <mark key="[" line="33" column="122" />
+        <mark key="]" line="33" column="175" />
+        <mark key="^" line="33" column="175" />
+        <mark key="." line="33" column="175" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_cart_list.html.erb" timestamp="1558630875249">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
@@ -313,6 +319,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/controllers/frontend/categories_controller.rb" timestamp="1558630357175" />
       <file name="/GraphQL.result.json" timestamp="1558600163352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -388,10 +395,10 @@
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558625976570">
-        <mark key="[" line="7846" column="0" />
-        <mark key="]" line="7846" column="0" />
-        <mark key="." line="7846" column="0" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558629130047">
+        <mark key="[" line="7842" column="3" />
+        <mark key="]" line="7849" column="0" />
+        <mark key="." line="7849" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/config/initializers/devise.rb" timestamp="1554210708939">
         <mark key="[" line="14" column="38" />
@@ -641,8 +648,14 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558605685411">
+      <file name="/Ruby Console" timestamp="1558630449083">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/categories/show.html.erb" timestamp="1558630566434">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
         <mark key="[" line="1198" column="16" />
@@ -816,10 +829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
       </register>
       <register name="-" type="4">
-        <text>background-color: #606060;</text>
+        <text>會員中心</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -828,37 +841,37 @@
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFjY291bnRfY2VudGVyX29yZGVyc19wYXRoICU+IiBjbGFzcz0iYnV0dG9uIGFkYyIgc3R5bGU9Im1hcmdpbi10b3A6IDIwcHg7cGFkZGluZy10b3A6IDhweDtwYWRkaW5nLWJvdHRvbTogOHB4OyI+PGkgY2xhc3M9ImZhIGZhLXVzZXIiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OiA1cHg7Ij48L2k+5pyD5ZOh5Lit5b+DPC9hPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuY29udGFpbmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0ODBweCkgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAuY29udGFpbmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
+        <text encoding="base64">ZGRAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0ODBweCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IHZpc2libGU7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAubWVtYmVyX2NlbnRlciB7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
