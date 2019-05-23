@@ -83,6 +83,7 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/config/secrets.yml" timestamp="1558603052328" />
       <file name="$USER_HOME$/repositories/chu-seafood/test/controllers/frontend/orders_controller_test.rb" timestamp="1557823335888">
         <mark key="[" line="45" column="38" />
       </file>
@@ -655,7 +656,7 @@
       <file name="/chu_seafood_development.public.site_settings [Rails chu-seafood: development]" timestamp="1554557831977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/database.yml" timestamp="1558321733061">
+      <file name="$USER_HOME$/repositories/chu-seafood/config/database.yml" timestamp="1558603636582">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="21" />
