@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/base_serializer.rb" timestamp="1552533491669">
         <mark key="[" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/home/_sold_out_product.html.erb" timestamp="1558667742963" />
       <file name="$USER_HOME$/repositories/spreeeed_crm/app/controllers/api/application_controller.rb" timestamp="1553819245389">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="8" />
@@ -231,7 +232,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/admin/collections_controller.rb" timestamp="1553570946513">
         <mark key="[" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/update.js.erb" timestamp="1558666885697">
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/update.js.erb" timestamp="1558667566164">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="22" />
         <mark key="^" line="44" column="22" />
