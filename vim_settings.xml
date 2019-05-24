@@ -392,7 +392,7 @@
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558629130047">
+      <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/frontend/style.scss.erb" timestamp="1558662924477">
         <mark key="[" line="7842" column="3" />
         <mark key="]" line="7849" column="0" />
         <mark key="." line="7849" column="0" />
@@ -645,7 +645,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558630449083">
+      <file name="/Ruby Console" timestamp="1558663001857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/categories/show.html.erb" timestamp="1558630566434">
