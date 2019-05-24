@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/base_serializer.rb" timestamp="1552533491669">
         <mark key="[" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/home/_sold_out_product.html.erb" timestamp="1558667742963" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/home/_sold_out_product.html.erb" timestamp="1558669587596" />
       <file name="$USER_HOME$/repositories/spreeeed_crm/app/controllers/api/application_controller.rb" timestamp="1553819245389">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="8" />
@@ -135,6 +135,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/_current_shopping_cart.html.erb" timestamp="1558669955433">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/redsun-test/app/controllers/application_controller.rb" timestamp="1555526553263">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="21" column="18" />
@@ -232,11 +237,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/admin/collections_controller.rb" timestamp="1553570946513">
         <mark key="[" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/update.js.erb" timestamp="1558668392469">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="22" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="44" column="22" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/update.js.erb" timestamp="1558669844891">
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="61" column="8" />
+        <mark key="^" line="61" column="8" />
+        <mark key="." line="61" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/environments/production.rb" timestamp="1558322578300">
         <mark key="[" line="64" column="65" />
@@ -476,6 +481,12 @@
         <mark key="]" line="31" column="7" />
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_disable_purchasing.html.erb" timestamp="1558671494927">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558492622265">
         <mark key="[" line="48" column="32" />
@@ -831,11 +842,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
+      <register name="&quot;" type="4">
+        <text>index_placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>會員中心</text>
+        <text>index_placeholder</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -844,37 +855,37 @@
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFjY291bnRfY2VudGVyX29yZGVyc19wYXRoICU+IiBjbGFzcz0iYnV0dG9uIGFkYyIgc3R5bGU9Im1hcmdpbi10b3A6IDIwcHg7cGFkZGluZy10b3A6IDhweDtwYWRkaW5nLWJvdHRvbTogOHB4OyI+PGkgY2xhc3M9ImZhIGZhLXVzZXIiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OiA1cHg7Ij48L2k+5pyD5ZOh5Lit5b+DPC9hPgo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPHN0eWxlPi0tCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Pgo8IS0tICAgICAgICAgICNwcm9kdWN0XzwlPSBpdGVtLml0ZW1faWQgJT4ucHJvZHVjdCB7LS0+CjwhLS0gICAgICAgICAgICBkaXNwbGF5OiBub25lOy0tPgo8IS0tICAgICAgICAgIH0tLT4KPCEtLSAgICAgICAgPC9zdHlsZT4tLT4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHN0eWxlPgogICNwcm9kdWN0XzwlPSBpdGVtLml0ZW1faWQgJT4ucHJvZHVjdCB7CiAgICBkaXNwbGF5OiBub25lOwogIH0KPC9zdHlsZT4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuY29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFjY291bnRfY2VudGVyX29yZGVyc19wYXRoICU+IiBjbGFzcz0iYnV0dG9uIGFkYyIgc3R5bGU9Im1hcmdpbi10b3A6IDIwcHg7cGFkZGluZy10b3A6IDhweDtwYWRkaW5nLWJvdHRvbTogOHB4OyI+PGkgY2xhc3M9ImZhIGZhLXVzZXIiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OiA1cHg7Ij48L2k+5pyD5ZOh5Lit5b+DPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0ODBweCkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
