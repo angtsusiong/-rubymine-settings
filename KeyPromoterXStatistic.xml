@@ -41,6 +41,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Production: chu-seafood'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Production: chu-seafood'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Sidekiq'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
