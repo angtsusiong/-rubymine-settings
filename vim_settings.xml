@@ -329,7 +329,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558677528813">
+      <file name="/GraphQL.result.json" timestamp="1558688572522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -359,7 +359,6 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/bin/db/dump.sh" timestamp="1558685921898" />
       <file name="$USER_HOME$/repositories/chu-seafood/app/models/concerns/spreeeed_engine/datatables/shopping_cart/order.rb" timestamp="1557377047666">
         <mark key="[" line="19" column="32" />
       </file>
@@ -489,7 +488,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/Gemfile.lock" timestamp="1558682207359" />
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1558492622265">
         <mark key="[" line="48" column="32" />
         <mark key="]" line="48" column="30" />
