@@ -207,11 +207,11 @@
       <file name="$USER_HOME$/repositories/chu-seafood/config/locales/models/shopping_cart/order/zh-TW.yml" timestamp="1557377298050">
         <mark key="[" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.passenger" timestamp="1558692805739">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.passenger" timestamp="1558693847847">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="9" />
+        <mark key="." line="50" column="9" />
+        <mark key="^" line="50" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/spec/spec_helper.rb" timestamp="1557821925395">
         <mark key="[" line="4" column="13" />
