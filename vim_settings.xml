@@ -181,10 +181,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_merge_details.erb" timestamp="1557844061409">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_merge_details.erb" timestamp="1558678938234">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
@@ -257,11 +258,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/datatables/bank.rb" timestamp="1553573606150">
         <mark key="[" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_info.erb" timestamp="1557838562886">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_info.erb" timestamp="1558678919850">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/config/nginx.conf" timestamp="1553800434489">
         <mark key="[" line="3" column="16" />
@@ -842,10 +843,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index_placeholder</text>
+        <text encoding="base64">ICA8cD7nj77lnKjplovlp4vlj6/ku6XlkIjkvbXnlbbmnIjkuI3lkIzoqILllq7kuIDotbflr4Tlh7o8YnI+56ys5LiA5by16KiC5Zau5LiL6KiC5b6M5Zub6YCx5YWn5Y+v5aSa5ZCI5L215LiA5by16KiC5ZauPC9wPgogIDxwPuWFqeW8teioguWWruWQiOS9teWKoOe4veS4gOaoo++8hDQ4MDDlhY3pgYvosrs8YnI+5YWp6YCx6KiC5Zau5YiG5Yil5ru/5YWp5Y2D5YWD5ZCE5pyJ5LiA5Lu95ru/6aGN56auPC9wPgogIDxwPuacgOWlveW6t+eahOaYr+WFqeW8teioguWWrumDveiDveaKveeNjjxicj7kuIDlhbHmnInlhanmrKHmir3njY7mqZ/mnIPmm7Tlpb3kuK3njY7lmaI8L3A+</text>
       </register>
       <register name="-" type="4">
-        <text>index_placeholder</text>
+        <text>！</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -853,41 +854,41 @@
       <register name="0" type="4">
         <text>Rails.application.credentials.twilio[:sid]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICA8cD7nj77lnKjplovlp4vlj6/ku6XlkIjkvbXnlbbmnIjkuI3lkIzoqILllq7kuIDotbflr4Tlh7o8YnI+56ys5LiA5by16KiC5Zau5LiL6KiC5b6M5Zub6YCx5YWn5Y+v5aSa5ZCI5L215LiA5by16KiC5ZauPC9wPgogIDxwPuWFqeW8teioguWWruWQiOS9teWKoOe4veS4gOaoo++8hDQ4MDDlhY3pgYvosrs8YnI+5YWp6YCx6KiC5Zau5YiG5Yil5ru/5YWp5Y2D5YWD5ZCE5pyJ5LiA5Lu95ru/6aGN56auPC9wPgogIDxwPuacgOWlveW6t+eahOaYr+WFqeW8teioguWWrumDveiDveaKveeNjjxicj7kuIDlhbHmnInlhanmrKHmir3njY7mqZ/mnIPmm7Tlpb3kuK3njY7lmaI8L3A+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPHN0eWxlPi0tCg==</text>
+        <text encoding="base64">ICAgIDxwPuaWsOerueiyqOmBiyA0LzMo5pif5pyf5LiJ77yJLSA0LzbomZ8o5pif5pyf5YWt77yJ5LyR5YGH5LiN6YWN6YCB77yMPGJyLz4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pgo8IS0tICAgICAgICAgICNwcm9kdWN0XzwlPSBpdGVtLml0ZW1faWQgJT4ucHJvZHVjdCB7LS0+CjwhLS0gICAgICAgICAgICBkaXNwbGF5OiBub25lOy0tPgo8IS0tICAgICAgICAgIH0tLT4KPCEtLSAgICAgICAgPC9zdHlsZT4tLT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAg6KaB5pma5Yiw6LKo5oiW6YG45pOHIDQvNiDmmJ/mnJ/lha3liLDosqjnmoTllb7lj4vvvIw8YnIvPgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PHN0eWxlPgogICNwcm9kdWN0XzwlPSBpdGVtLml0ZW1faWQgJT4ucHJvZHVjdCB7CiAgICBkaXNwbGF5OiBub25lOwogIH0KPC9zdHlsZT4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAg6YCZ6YCx6bq754Wp6KaB6YG45pOH5rKS5LyR5YGH55qE6buR6LKT6YWN6YCB77yMPGJyLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFubm91bmNlbWVudHNfcGF0aCAlPiIgY2xhc3M9ImJ1dHRvbiBhZGMiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4O3BhZGRpbmctdG9wOiA4cHg7cGFkZGluZy1ib3R0b206IDhweDsiPuWFrOWRijwvYT4K</text>
+        <text encoding="base64">ICAgICAg5oiW5YSY5pep5LuY6LK76YG45pOH5paw56u56YWN6YCB5YWo5a625Yiw6LKo44CCPC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IGFjY291bnRfY2VudGVyX29yZGVyc19wYXRoICU+IiBjbGFzcz0iYnV0dG9uIGFkYyIgc3R5bGU9Im1hcmdpbi10b3A6IDIwcHg7cGFkZGluZy10b3A6IDhweDtwYWRkaW5nLWJvdHRvbTogOHB4OyI+PGkgY2xhc3M9ImZhIGZhLXVzZXIiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OiA1cHg7Ij48L2k+5pyD5ZOh5Lit5b+DPC9hPgo=</text>
+        <text encoding="base64">ICAgIDxwPuiri+azqOaEj+mBuOaTh+aWsOerueiyqOmBi+WHuuiyqOWVvuWPi++8jDxiciAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlPSBTZXR0aW5ncy5mYWNlYm9vay5mYW5fcGFnZV91cmwgJT4iPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPiA8JT0gU2V0dGluZ3Muc2l0ZS5uYW1lICU+PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAg6bq754Wp6KaB5Zyo6YCx5LiA5Lit5Y2I5YmN5a6M5oiQ5LuY6LK75aW955uh5b+r5Ye66LKo77yMPGJyIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAg5aSq5pma5LuY6LK75paw56u56LKo6YGL6YCx5LiJ5LyR5YGH6KaB5YiwIDQvOCDomZ/pgLHkuIDmiY3og73liLDosqjllpTjgII8L3A+Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -912,8 +913,8 @@
       </history-search>
       <history-cmd>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
