@@ -89,6 +89,7 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/config/secrets.yml" timestamp="1558996204144" />
       <file name="$USER_HOME$/repositories/chu-seafood/test/controllers/frontend/orders_controller_test.rb" timestamp="1557823335888">
         <mark key="[" line="45" column="38" />
       </file>
@@ -218,10 +219,10 @@
       <file name="$USER_HOME$/repositories/chu-seafood/config/locales/models/shopping_cart/order/zh-TW.yml" timestamp="1557377298050">
         <mark key="[" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.passenger" timestamp="1558695100023">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.passenger" timestamp="1558996363825">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1558937640992">
@@ -348,7 +349,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558995750008">
+      <file name="/GraphQL.result.json" timestamp="1558995979460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -443,7 +444,7 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558689844082">
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558996192372">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
