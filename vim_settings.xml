@@ -207,7 +207,7 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/settings/production.yml" timestamp="1558998809478">
+      <file name="$USER_HOME$/repositories/chu-seafood/config/settings/production.yml" timestamp="1559000222663">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="56" column="26" />
         <mark key="." line="56" column="26" />
@@ -444,11 +444,11 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1558998610849">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="77" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1559000553063">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="25" column="77" />
-        <mark key="." line="25" column="77" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/spec_helper.rb" timestamp="1553738358412">
         <mark key="[" line="95" column="2" />
@@ -665,7 +665,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1558998727209">
+      <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1559000257063">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
@@ -878,19 +878,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBHZW1maWxlIEdlbWZpbGUubG9jayAuLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>--without development:test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25maWcuYWN0aW9uX2NvbnRyb2xsZXIuYXNzZXRfaG9zdCA9ICcvL3d3dy5jaHUtc2VhZm9vZC5jb20udHcnCg==</text>
+        <text encoding="base64">Q09QWSAuIC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBHZW1maWxlIEdlbWZpbGUubG9jayAuLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -905,22 +905,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1JVTiBidW5kbGUgaW5zdGFsbCAtLWpvYnM9MjAK</text>
+        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSBHZW1maWxlLmxvY2sgR2VtZmlsZS5sb2NrCg==</text>
+        <text encoding="base64">I1JVTiBidW5kbGUgaW5zdGFsbCAtLWpvYnM9MjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBHZW1maWxlLmxvY2sgR2VtZmlsZS5sb2NrCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTZXR0aW5nIGVudiB1cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
