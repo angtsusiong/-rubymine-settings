@@ -224,6 +224,9 @@
         <mark key="." line="50" column="9" />
         <mark key="^" line="50" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1558937640992">
+        <mark key="[" line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/spec/spec_helper.rb" timestamp="1557821925395">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -271,6 +274,7 @@
       <file name="$USER_HOME$/repositories/slate/.gitignore" timestamp="1553087641504">
         <mark key="[" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/banks.rb" timestamp="1558937616277" />
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/datatables/bank.rb" timestamp="1553573606150">
         <mark key="[" line="9" column="11" />
       </file>
@@ -761,6 +765,12 @@
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/lib/grape_devise_token_auth/configuration.rb" timestamp="1553683510927">
         <mark key="[" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/verification/signatures.rb" timestamp="1558937889843">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/db/migrate/20190508064520_add_alpha_order_id_to_shopping_cart_orders.rb" timestamp="1557299428634">
         <mark key="[" line="3" column="19" />
