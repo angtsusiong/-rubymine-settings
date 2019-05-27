@@ -355,7 +355,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558930073745">
+      <file name="/GraphQL.result.json" timestamp="1558943020179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -695,7 +695,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1558704995031">
+      <file name="/Ruby Console" timestamp="1558942607433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/categories/show.html.erb" timestamp="1558630566434">
@@ -766,11 +766,10 @@
       <file name="$USER_HOME$/repositories/spreeeed_crm/lib/grape_devise_token_auth/configuration.rb" timestamp="1553683510927">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/verification/signatures.rb" timestamp="1558937889843">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/verification/signatures.rb" timestamp="1558942605093">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/db/migrate/20190508064520_add_alpha_order_id_to_shopping_cart_orders.rb" timestamp="1557299428634">
         <mark key="[" line="3" column="19" />
@@ -886,8 +885,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ww.chu-seafood.com.tw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2VudCBzaWduYXR1cmUsIHdpdGggCg==</text>
       </register>
       <register name="-" type="4">
         <text>ww.chu-seafood.com.tw</text>
@@ -899,37 +898,37 @@
         <text encoding="base64">ICBjb25maWcuYWN0aW9uX2NvbnRyb2xsZXIuYXNzZXRfaG9zdCA9ICcvL3d3dy5jaHUtc2VhZm9vZC5jb20udHcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogY2h1c2VhZm9vZF9wcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2VudCBzaWduYXR1cmUsIHdpdGggCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IzpwaWRmaWxlOiB0bXAvcGlkcy9zaWRla2lxLnBpZAo=</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogY2h1c2VhZm9vZF9wcm9kdWN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OnBpZGZpbGU6IHRtcC9waWRzL3NpZGVraXEucGlkCg==</text>
+        <text encoding="base64">IzpwaWRmaWxlOiB0bXAvcGlkcy9zaWRla2lxLnBpZAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">OnBpZGZpbGU6IHRtcC9waWRzL3NpZGVraXEucGlkCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICYmIGJ1bmRsZSBjb25maWcgZ2l0LmFsbG93X2luc2VjdXJlIHRydWUgXAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8cD7nj77lnKjplovlp4vlj6/ku6XlkIjkvbXnlbbmnIjkuI3lkIzoqILllq7kuIDotbflr4Tlh7o8YnI+56ys5LiA5by16KiC5Zau5LiL6KiC5b6M5Zub6YCx5YWn5Y+v5aSa5ZCI5L215LiA5by16KiC5ZauPC9wPgogIDxwPuWFqeW8teioguWWruWQiOS9teWKoOe4veS4gOaoo++8hDQ4MDDlhY3pgYvosrs8YnI+5YWp6YCx6KiC5Zau5YiG5Yil5ru/5YWp5Y2D5YWD5ZCE5pyJ5LiA5Lu95ru/6aGN56auPC9wPgogIDxwPuacgOWlveW6t+eahOaYr+WFqeW8teioguWWrumDveiDveaKveeNjjxicj7kuIDlhbHmnInlhanmrKHmir3njY7mqZ/mnIPmm7Tlpb3kuK3njY7lmaI8L3A+</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxwPuaWsOerueiyqOmBiyA0LzMo5pif5pyf5LiJ77yJLSA0LzbomZ8o5pif5pyf5YWt77yJ5LyR5YGH5LiN6YWN6YCB77yMPGJyLz4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAg6KaB5pma5Yiw6LKo5oiW6YG45pOHIDQvNiDmmJ/mnJ/lha3liLDosqjnmoTllb7lj4vvvIw8YnIvPgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAg6YCZ6YCx6bq754Wp6KaB6YG45pOH5rKS5LyR5YGH55qE6buR6LKT6YWN6YCB77yMPGJyLz4K</text>
+        <text encoding="base64">ICAgICAg6KaB5pma5Yiw6LKo5oiW6YG45pOHIDQvNiDmmJ/mnJ/lha3liLDosqjnmoTllb7lj4vvvIw8YnIvPgo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAg5oiW5YSY5pep5LuY6LK76YG45pOH5paw56u56YWN6YCB5YWo5a625Yiw6LKo44CCPC9wPgo=</text>
+        <text encoding="base64">ICAgICAg6YCZ6YCx6bq754Wp6KaB6YG45pOH5rKS5LyR5YGH55qE6buR6LKT6YWN6YCB77yMPGJyLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
