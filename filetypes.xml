@@ -15,6 +15,7 @@
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="sidekiq" type="Dockerfile" />
       <mapping ext="passenger" type="Dockerfile" />
+      <mapping ext="redis" type="Dockerfile" />
       <mapping ext="alpine" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
