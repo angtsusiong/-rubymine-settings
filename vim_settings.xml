@@ -545,11 +545,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.sidekiq" timestamp="1559003737323">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="37" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.sidekiq" timestamp="1559009988712">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/support/matchers/query_matcher.rb" timestamp="1553739732543">
         <mark key="[" line="2" column="0" />
@@ -884,7 +884,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>puma&quot;, &quot;-C&quot;, &quot;config/puma.rb</text>
@@ -896,37 +896,37 @@
         <text encoding="base64">Q09QWSAuIC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBBZGRpbmcgcHJvamVjdCBmaWxlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBZGRpbmcgZ2Vtcwo=</text>
+        <text encoding="base64">ZG9ja2VyLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1VTRVIgYXBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGNob3duIGFwcDphcHAgL2hvbWUvYXBwL3dlYmFwcC8gLVIK</text>
+        <text encoding="base64">IyBBZGRpbmcgZ2Vtcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I1VTRVIgcm9vdAo=</text>
+        <text encoding="base64">I1VTRVIgYXBwCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIFJBSUxTX1JPT1QgL2hvbWUvYXBwL3dlYmFwcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
