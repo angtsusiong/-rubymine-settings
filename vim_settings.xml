@@ -193,6 +193,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/redis.conf" timestamp="1559005551161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_merge_details.erb" timestamp="1558678938234">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="54" />
