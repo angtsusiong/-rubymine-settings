@@ -444,7 +444,7 @@
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/config/locales/helpers/operations/en.yml" timestamp="1553534599869">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1559002240971">
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile" timestamp="1559002860602">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="25" column="77" />
@@ -542,11 +542,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.sidekiq" timestamp="1558354930904">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="37" />
-        <mark key="^" line="52" column="37" />
+      <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.sidekiq" timestamp="1559002896221">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/support/matchers/query_matcher.rb" timestamp="1553739732543">
         <mark key="[" line="2" column="0" />
@@ -877,11 +877,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSBHZW1maWxlIEdlbWZpbGUubG9jayAuLwo=</text>
+      <register name="&quot;" type="4">
+        <text>puma&quot;, &quot;-C&quot;, &quot;config/puma.rb</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>puma&quot;, &quot;-C&quot;, &quot;config/puma.rb</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
