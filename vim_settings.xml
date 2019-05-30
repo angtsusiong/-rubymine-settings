@@ -114,11 +114,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559193975087">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559211623571">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/sidekiq.yml" timestamp="1558330429791">
         <mark key="[" line="2" column="0" />
@@ -281,10 +281,11 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" timestamp="1559193540230">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user/profile.rb" timestamp="1559212247505">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/spec/support/matchers/query_matcher.rb" timestamp="1553739732543">
         <mark key="[" line="2" column="0" />
@@ -375,7 +376,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559199170803">
+      <file name="/Ruby Console" timestamp="1559211890218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -385,6 +386,12 @@
       </file>
       <file name="/chu_seafood_development.public.site_settings [Rails chu-seafood: development]" timestamp="1554557831977">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/db/seeds/002_default_users.rb" timestamp="1559211874923">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.redis" timestamp="1559004611565">
         <mark key="[" line="0" column="10" />
@@ -526,6 +533,17 @@
         <mark key="]" line="21" column="17" />
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559211718408">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/db/migrate/20181228093113_create_user_profiles.rb" timestamp="1559210995137">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/profile_entity.rb" timestamp="1559208465938">
         <mark key="[" line="0" column="58" />
@@ -758,11 +776,11 @@
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_disable_purchasing.html.erb" timestamp="1558671494927">
         <mark key="[" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559208272556">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559211793735">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_receiver_details.erb" timestamp="1557839385003">
         <mark key="[" line="0" column="44" />
@@ -911,11 +929,11 @@
         <mark key="." line="142" column="51" />
         <mark key="^" line="142" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profile.rb" timestamp="1559208379998">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profile.rb" timestamp="1559211584034">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="68" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1555659699388">
         <mark key="[" line="0" column="0" />
@@ -1022,13 +1040,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>signature</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmFyY19zZXJpYWw=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VmVyaWZpY2F0aW9uOjpTaWduYXR1cmVzCg==</text>
+        <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VmVyaWZpY2F0aW9uOjpBZGRyZXNzZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1037,31 +1055,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IGN1cnJlbnRfdXNlci5wcm9maWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm1vYmlsZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm5hbWUKICAgICAgdC5zdHJpbmcgOmxhc3RfbmFtZQogICAgICB0LnN0cmluZyA6ZnVsbF9uYW1l</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
