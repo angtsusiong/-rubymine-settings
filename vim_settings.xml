@@ -366,6 +366,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/spreeeed_engine.gemspec" timestamp="1559196140502">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="80" />
+        <mark key="^" line="41" column="80" />
+        <mark key="." line="41" column="80" />
+      </file>
       <file name="/Ruby Console" timestamp="1559191483949">
         <mark key="[" line="0" column="0" />
       </file>
