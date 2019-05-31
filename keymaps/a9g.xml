@@ -7,6 +7,10 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="GoToLastTab">
     <keyboard-shortcut first-keystroke="alt tab" second-keystroke="0" />
   </action>
