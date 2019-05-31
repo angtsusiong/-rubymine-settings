@@ -535,7 +535,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/db/migrate/20181228093113_create_user_profiles.rb" timestamp="1559277332062">
+      <file name="$USER_HOME$/repositories/kirimi/db/migrate/20181228093113_create_user_profiles.rb" timestamp="1559280996968">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
