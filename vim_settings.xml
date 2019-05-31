@@ -21,12 +21,11 @@
       <file name="61ca8f6c-c07f-4dbf-87c1-b7e7f73ebe68/dataset_filters/schemas/public/tables/shopping_cart_orders" timestamp="1555579181943">
         <mark key="[" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" timestamp="1559294664976">
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" timestamp="1559295979748">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+        <mark key="[" line="27" column="82" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/verification/address_serializer.rb" timestamp="1559190895145">
         <mark key="[" line="2" column="20" />
@@ -380,7 +379,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559289579938">
+      <file name="/Ruby Console" timestamp="1559295868096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -779,11 +778,11 @@
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_disable_purchasing.html.erb" timestamp="1558671494927">
         <mark key="[" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559288834342">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559296240488">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
         <mark key="^" line="13" column="29" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_receiver_details.erb" timestamp="1557839385003">
         <mark key="[" line="0" column="44" />
@@ -1044,8 +1043,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6dHJhbnNhY3Rpb25fZGV0YWlsX2RhdGEK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1057,37 +1056,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlLnRhcmdldF9hdWRpZW5jZSA9IHBhcmFtc1s6dGFyZ2V0X2F1ZGllbmNlXSBpZiBwYXJhbXNbOnRhcmdldF9hdWRpZW5jZV0ucHJlc2VudD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhbmtfYWNjb3VudC5zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6dHJhbnNhY3Rpb25fZGV0YWlsX2RhdGEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X2FjY291bnRfbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6dXBkYXRlZF9hdAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBpZiBhY2NvdW50X251bWJlci5uaWw/CiAgICAgIHNlbGYuYWNjb3VudF9udW1iZXIgPSAiIgogICAgZW5kCiAgZW5kCgogIGRlZiBzZXRfcmVjaXBpZW50X25hbWUKICAgIGlmIHJlY2lwaWVudF9uYW1lLm5pbD8KICAgICAgc2VsZi5yZWNpcGllbnRfbmFtZSA9ICIiCiAgICBlbmQKICBlbmQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6Y3JlYXRlZF9hdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2FjY291bnRfbnVtYmVyLCBpZjogLT4gKGFjY291bnQpIHsgYWNjb3VudC5hY2NvdW50X251bWJlci5uaWw/IH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1cyAyMDQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgYmVmb3JlX3ZhbGlkYXRpb24gOnNldF9yZWNpcGllbnRfbmFtZSwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQucmVjaXBpZW50X25hbWUubmlsPyB9CiAgYmVmb3JlX3NhdmUgOnNldF9hY2NvdW50X251bWJlciwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQuYWNjb3VudF9udW1iZXIubmlsPyB9CiAgYmVmb3JlX3NhdmUgOnNldF9yZWNpcGllbnRfbmFtZSwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQucmVjaXBpZW50X25hbWUubmlsPyB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJhbmtfYWNjb3VudC5zYXZlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvcHRpb25hbCAK</text>
+        <text encoding="base64">ICBkZWYgc2V0X2FjY291bnRfbnVtYmVyCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBpZiBhY2NvdW50X251bWJlci5uaWw/CiAgICAgIHNlbGYuYWNjb3VudF9udW1iZXIgPSAiIgogICAgZW5kCiAgZW5kCgogIGRlZiBzZXRfcmVjaXBpZW50X25hbWUKICAgIGlmIHJlY2lwaWVudF9uYW1lLm5pbD8KICAgICAgc2VsZi5yZWNpcGllbnRfbmFtZSA9ICIiCiAgICBlbmQKICBlbmQ=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2FjY291bnRfbnVtYmVyLCBpZjogLT4gKGFjY291bnQpIHsgYWNjb3VudC5hY2NvdW50X251bWJlci5uaWw/IH0K</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IGN1cnJlbnRfdXNlci5wcm9maWxlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgYmVmb3JlX3ZhbGlkYXRpb24gOnNldF9yZWNpcGllbnRfbmFtZSwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQucmVjaXBpZW50X25hbWUubmlsPyB9CiAgYmVmb3JlX3NhdmUgOnNldF9hY2NvdW50X251bWJlciwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQuYWNjb3VudF9udW1iZXIubmlsPyB9CiAgYmVmb3JlX3NhdmUgOnNldF9yZWNpcGllbnRfbmFtZSwgaWY6IC0+IChhY2NvdW50KSB7IGFjY291bnQucmVjaXBpZW50X25hbWUubmlsPyB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
