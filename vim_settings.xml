@@ -21,6 +21,9 @@
       <file name="61ca8f6c-c07f-4dbf-87c1-b7e7f73ebe68/dataset_filters/schemas/public/tables/shopping_cart_orders" timestamp="1555579181943">
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" timestamp="1559288877228">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/verification/address_serializer.rb" timestamp="1559190895145">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="17" />
@@ -373,7 +376,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559279350512">
+      <file name="/Ruby Console" timestamp="1559289579938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -530,10 +533,11 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559211718408">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559289650698">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/db/migrate/20181228093113_create_user_profiles.rb" timestamp="1559280996968">
         <mark key="[" line="10" column="22" />
@@ -771,7 +775,7 @@
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_disable_purchasing.html.erb" timestamp="1558671494927">
         <mark key="[" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559211793735">
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559288834342">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
@@ -1028,10 +1032,11 @@
       <jump line="18" column="40" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
       <jump line="33" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlLnRhcmdldF9hdWRpZW5jZSA9IHBhcmFtc1s6dGFyZ2V0X2F1ZGllbmNlXSBpZiBwYXJhbXNbOnRhcmdldF9hdWRpZW5jZV0ucHJlc2VudD8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmFyY19zZXJpYWw=</text>
@@ -1040,34 +1045,34 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VmVyaWZpY2F0aW9uOjpBZGRyZXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlLnRhcmdldF9hdWRpZW5jZSA9IHBhcmFtc1s6dGFyZ2V0X2F1ZGllbmNlXSBpZiBwYXJhbXNbOnRhcmdldF9hdWRpZW5jZV0ucHJlc2VudD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvcHRpb25hbCAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IGN1cnJlbnRfdXNlci5wcm9maWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IGN1cnJlbnRfdXNlci5wcm9maWxlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm1vYmlsZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm5hbWUKICAgICAgdC5zdHJpbmcgOmxhc3RfbmFtZQogICAgICB0LnN0cmluZyA6ZnVsbF9uYW1l</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
