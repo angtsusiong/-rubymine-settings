@@ -36,6 +36,9 @@
     </case-options>
     <formatting-settings enabled="false" />
   </DBN-PSQL>
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
   <DBN-SQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -50,4 +53,12 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <codeStyleSettings language="ruby">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
