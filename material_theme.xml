@@ -17,11 +17,12 @@
     <option name="upperCaseButtons" value="false" />
     <option name="customSidebarHeight" value="23" />
     <option name="tabOpacity" value="93" />
-    <option name="treeFontSize" value="14" />
+    <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="13" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="0" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="16" />
     <option name="accentColor" value="dc81c4" />
     <option name="selectedTheme" value="CUSTOM" />

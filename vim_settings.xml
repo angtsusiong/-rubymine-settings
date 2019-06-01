@@ -38,8 +38,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/bank_account.rb" timestamp="1559308311843">
-        <mark key="[" line="29" column="35" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/bank_account.rb" timestamp="1559363422183">
+        <mark key="[" line="19" column="23" />
         <mark key="]" line="29" column="35" />
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="54" />
@@ -192,7 +192,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559317959739">
+      <file name="/GraphQL.result.json" timestamp="1559362860898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -379,7 +379,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559318314434">
+      <file name="/Ruby Console" timestamp="1559363309842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -591,7 +591,6 @@
         <mark key="." line="1" column="54" />
         <mark key="^" line="1" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood/app/controllers/frontend/orders_controller.rb" timestamp="1559318498375" />
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/signature_serializer.rb" timestamp="1559191723460">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
