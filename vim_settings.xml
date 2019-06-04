@@ -766,6 +766,12 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/exchange_rate.rb" timestamp="1553580253726">
         <mark key="[" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/helpers/frontend/orders_helper.rb" timestamp="1559642789155">
+        <mark key="[" line="9" column="63" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/helpers/spreeeed_engine/input/base_helper.rb" timestamp="1553676973586">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="66" column="10" />
