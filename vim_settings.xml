@@ -192,7 +192,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559615410454">
+      <file name="/GraphQL.result.json" timestamp="1559615570469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -435,10 +435,16 @@
       <file name="/dummy.sql" timestamp="1554558841845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558995816634">
+      <file name="/Dummy.txt" timestamp="1559615709885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/models/concerns/users/roles.rb" timestamp="1559615701389">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="73" />
+        <mark key="^" line="17" column="73" />
+        <mark key="." line="17" column="73" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/models/application_record.rb" timestamp="1552006924657">
         <mark key="[" line="2" column="44" />
