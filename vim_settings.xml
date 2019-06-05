@@ -112,6 +112,9 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="/dummy.txt" timestamp="1559718170569">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/settings/production.yml" timestamp="1559000222663">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="56" column="26" />
@@ -192,7 +195,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559702291418">
+      <file name="/GraphQL.result.json" timestamp="1559718119510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -382,7 +385,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559707239399">
+      <file name="/Ruby Console" timestamp="1559718885729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -441,7 +444,7 @@
       <file name="/dummy.sql" timestamp="1554558841845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559615709885">
+      <file name="/Dummy.txt" timestamp="1559718650741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,6 +588,11 @@
         <mark key="]" line="25" column="110" />
         <mark key="." line="25" column="110" />
         <mark key="^" line="25" column="110" />
+      </file>
+      <file name="$USER_HOME$/repositories/slate/.ruby-version" timestamp="1559718299306">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/shopping_carts/_current_shopping_cart.html.erb" timestamp="1558669955433">
         <mark key="[" line="14" column="0" />
@@ -910,6 +918,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="37" column="13" />
       </file>
+      <file name="$USER_HOME$/repositories/slate/Gemfile" timestamp="1559718765963">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/app/Dockerfile.passenger" timestamp="1557139328338">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="49" column="0" />
@@ -1100,10 +1113,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">LCAnfj40LjIuMSc=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">LCAnfj40LjIuMSc=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
