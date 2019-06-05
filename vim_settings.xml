@@ -59,11 +59,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users.rb" timestamp="1559706472312">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="21" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users.rb" timestamp="1559710889010">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
@@ -551,7 +551,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559289650698">
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559710480555">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
