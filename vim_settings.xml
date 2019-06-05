@@ -59,6 +59,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users.rb" timestamp="1559706472312">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="37" />
@@ -112,11 +118,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559705795070">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559707221951">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/sidekiq.yml" timestamp="1558330429791">
         <mark key="[" line="2" column="0" />
@@ -376,7 +382,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559704440175">
+      <file name="/Ruby Console" timestamp="1559707239399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -402,10 +408,10 @@
         <mark key="." line="87" column="22" />
         <mark key="^" line="87" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users/profiles.rb" timestamp="1559705779379">
-        <mark key="[" line="2" column="15" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users/profiles.rb" timestamp="1559707112386">
+        <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
+        <mark key="^" line="7" column="23" />
         <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/models/concerns/cart/order/payment_states.rb" timestamp="1555662248072">
@@ -811,11 +817,10 @@
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_disable_purchasing.html.erb" timestamp="1558671494927">
         <mark key="[" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559296240488">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/concerns/entities.rb" timestamp="1559706108831">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_receiver_details.erb" timestamp="1557839385003">
         <mark key="[" line="0" column="44" />
@@ -1004,11 +1009,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/fee.rb" timestamp="1553579932740">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559705047211">
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559706636804">
         <mark key="[" line="67" column="53" />
-        <mark key="]" line="35" column="10" />
-        <mark key="^" line="35" column="10" />
-        <mark key="." line="35" column="10" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1558335133887">
         <mark key="[" line="7" column="14" />
@@ -1090,16 +1095,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+PCU9IHBheW1lbnRfZGV0YWlscyhAb3JkZXIpICU+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VXNlcnM6OlByb2ZpbGVzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1108,31 +1113,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+PCU9IHBheW1lbnRfZGV0YWlscyhAb3JkZXIpICU+PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY29wZSA6bWVyZ2VfbmVlZGVkLCAtPiB7IHdoZXJlKGRlbGl2ZXJfd2F5OiAn5b6F5ZCI5L216YGL6YCBJykgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIHByZXNlbnQgZmVlLCB3aXRoOiBGZWVTZXJpYWxpemVyLm5ldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6dHJhbnNhY3Rpb25fZGV0YWlsX2RhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6dXBkYXRlZF9hdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9zZSA6Y3JlYXRlZF9hdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIGN1cnJlbnRfdXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1cyAyMDQK</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhbmtfYWNjb3VudC5zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X2FjY291bnRfbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3MgQVBJOjpWMTo6Q29uY2VybnM6OkVudGl0aWVzOjpVc2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
