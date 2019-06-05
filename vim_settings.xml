@@ -192,7 +192,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559615570469">
+      <file name="/GraphQL.result.json" timestamp="1559702291418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -632,6 +632,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/db/migrate/20190114072425_create_transfer_transactions.rb" timestamp="1559702702208">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/spec/spec_helper.rb" timestamp="1557821925395">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -905,10 +911,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/transfer_transaction.rb" timestamp="1559292109455">
-        <mark key="[" line="53" column="6" />
-        <mark key="]" line="53" column="7" />
-        <mark key="." line="53" column="7" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/transfer_transaction.rb" timestamp="1559702854998">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/admin/shopping_cart/orders/_order.html.erb" timestamp="1557399059935">
         <mark key="[" line="171" column="0" />
@@ -1082,11 +1089,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
