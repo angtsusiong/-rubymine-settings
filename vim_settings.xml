@@ -21,12 +21,6 @@
       <file name="61ca8f6c-c07f-4dbf-87c1-b7e7f73ebe68/dataset_filters/schemas/public/tables/shopping_cart_orders" timestamp="1555579181943">
         <mark key="[" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/bank_accounts.rb" timestamp="1559295979748">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="27" column="82" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/kirimi/app/serializers/verification/address_serializer.rb" timestamp="1559190895145">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="17" />
@@ -118,11 +112,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559211623571">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559705795070">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/sidekiq.yml" timestamp="1558330429791">
         <mark key="[" line="2" column="0" />
@@ -407,6 +401,12 @@
         <mark key="]" line="87" column="22" />
         <mark key="." line="87" column="22" />
         <mark key="^" line="87" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/users/profiles.rb" timestamp="1559705779379">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/models/concerns/cart/order/payment_states.rb" timestamp="1555662248072">
         <mark key="[" line="41" column="34" />
@@ -1004,8 +1004,8 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/fee.rb" timestamp="1553579932740">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559704501363">
-        <mark key="[" line="64" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559705047211">
+        <mark key="[" line="67" column="53" />
         <mark key="]" line="35" column="10" />
         <mark key="^" line="35" column="10" />
         <mark key="." line="35" column="10" />
