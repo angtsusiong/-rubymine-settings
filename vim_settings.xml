@@ -382,7 +382,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559617145911">
+      <file name="/Ruby Console" timestamp="1559704440175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -1004,11 +1004,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/fee.rb" timestamp="1553579932740">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559703519014">
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559704501363">
         <mark key="[" line="64" column="0" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="22" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1558335133887">
         <mark key="[" line="7" column="14" />
