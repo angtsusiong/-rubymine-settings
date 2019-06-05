@@ -545,6 +545,11 @@
         <mark key="^" line="33" column="175" />
         <mark key="." line="33" column="175" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/assets/javascripts/spreeeed_engine/application.js" timestamp="1559715380501">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_cart_list.html.erb" timestamp="1558630875249">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="21" column="17" />
@@ -1095,10 +1100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
