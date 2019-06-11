@@ -195,7 +195,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560238087160">
+      <file name="/GraphQL.result.json" timestamp="1560238437079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -286,9 +286,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="75" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" timestamp="1559363522905">
-        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/models/user/profile.rb" timestamp="1559282689343">
         <mark key="[" line="19" column="0" />
@@ -977,6 +974,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/kerjadulu/app/models/interactive_message.rb" timestamp="1560239079403">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme" timestamp="1551873557902">
         <mark key="[" line="1198" column="16" />
       </file>
@@ -1112,8 +1115,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCAnfj40LjIuMSc=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAnfj40LjIuMSc=</text>
@@ -1125,7 +1128,7 @@
         <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VXNlcnM6OlByb2ZpbGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1134,28 +1137,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXNlbnQgZmVlLCB3aXRoOiBGZWVTZXJpYWxpemVyLm5ldwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByZXNlbnQgZmVlLCB3aXRoOiBGZWVTZXJpYWxpemVyLm5ldwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGN1cnJlbnRfdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIGN1cnJlbnRfdXNlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3MgQVBJOjpWMTo6Q29uY2VybnM6OkVudGl0aWVzOjpVc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
