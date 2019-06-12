@@ -65,7 +65,6 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="/image_uploader.rb" timestamp="1560308317511" />
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="37" />
@@ -122,7 +121,6 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi-chat/lib/spreeeed_engine/app/helpers/spreeeed_engine/attributes_helper.rb" timestamp="1560324668376" />
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559707221951">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="25" />
@@ -203,7 +201,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560307437708">
+      <file name="/GraphQL.result.json" timestamp="1560331478172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -218,7 +216,6 @@
       <file name="$USER_HOME$/repositories/chu-seafood/app/models/concerns/spreeeed_engine/datatables/shopping_cart/order.rb" timestamp="1557377047666">
         <mark key="[" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi-chat/lib/spreeeed_engine/app/assets/javascripts/spreeeed_engine/application.js" timestamp="1560278285046" />
       <file name="$USER_HOME$/repositories/chu-seafood/docker/app/.dockerignore" timestamp="1556675135135">
         <mark key="[" line="0" column="4" />
       </file>
@@ -413,11 +410,11 @@
       <file name="/chu_seafood_development.public.site_settings [Rails chu-seafood: development]" timestamp="1554557831977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/db/seeds/002_default_users.rb" timestamp="1560324616779">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/db/seeds/002_default_users.rb" timestamp="1560331585137">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="11" />
         <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.redis" timestamp="1559004611565">
         <mark key="[" line="0" column="10" />
@@ -505,7 +502,7 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" timestamp="1558456434047">
+      <file name="$USER_HOME$/repositories/kirimi/config/initializers/carrierwave.rb" timestamp="1560331527685">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
@@ -654,7 +651,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kerjadulu/lib/acts_as_chatable.rb" timestamp="1560248783197" />
       <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/views/layouts/spreeeed_engine/backbone.html.erb" timestamp="1553533819316">
         <mark key="[" line="6" column="17" />
       </file>
@@ -1058,10 +1054,11 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/fee.rb" timestamp="1553579932740">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1560324638257">
-        <mark key="]" line="35" column="11" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1560331508659">
+        <mark key="[" line="67" column="49" />
+        <mark key="]" line="67" column="50" />
         <mark key="^" line="35" column="11" />
-        <mark key="." line="35" column="11" />
+        <mark key="." line="67" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1558335133887">
         <mark key="[" line="7" column="14" />
