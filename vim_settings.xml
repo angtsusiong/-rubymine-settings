@@ -65,6 +65,7 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="/image_uploader.rb" timestamp="1560308317511" />
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.alpine" timestamp="1558352597425">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="37" />
@@ -192,10 +193,16 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi/app/controllers/admin/verification/signatures_controller.rb" timestamp="1560308395103">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560260307879">
+      <file name="/GraphQL.result.json" timestamp="1560307437708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -388,7 +395,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1559718885729">
+      <file name="/Ruby Console" timestamp="1560307825350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
@@ -551,10 +558,11 @@
         <mark key="^" line="33" column="175" />
         <mark key="." line="33" column="175" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/assets/javascripts/spreeeed_engine/application.js" timestamp="1559715380501">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
+      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/assets/javascripts/spreeeed_engine/application.js" timestamp="1560308066613">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/layouts/frontend/_cart_list.html.erb" timestamp="1558630875249">
         <mark key="[" line="20" column="64" />
@@ -1122,17 +1130,17 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>fontawesome</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAnfj40LjIuMSc=</text>
+        <text>fontawesome</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbW91bnQgQVBJOjpWMTo6VXNlcnM6OlByb2ZpbGVzCg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgZm9udC1hd2Vzb21lL3N2Zy13aXRoLWpzL2pzL2ZvbnRhd2Vzb21lLWFsbAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5kCg==</text>
