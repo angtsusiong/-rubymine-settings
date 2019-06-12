@@ -122,6 +122,7 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi-chat/lib/spreeeed_engine/app/helpers/spreeeed_engine/attributes_helper.rb" timestamp="1560324668376" />
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/base.rb" timestamp="1559707221951">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="25" />
@@ -398,6 +399,12 @@
       <file name="/Ruby Console" timestamp="1560307825350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/kirimi-chat/app/models/user.rb" timestamp="1560324625083">
+        <mark key="[" line="67" column="6" />
+        <mark key="]" line="67" column="5" />
+        <mark key="^" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/assets/stylesheets/admin/stocks/batch/manage.scss" timestamp="1558316881257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -406,11 +413,11 @@
       <file name="/chu_seafood_development.public.site_settings [Rails chu-seafood: development]" timestamp="1554557831977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/db/seeds/002_default_users.rb" timestamp="1559211874923">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/repositories/kirimi/db/seeds/002_default_users.rb" timestamp="1560324616779">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/Dockerfile.redis" timestamp="1559004611565">
         <mark key="[" line="0" column="10" />
@@ -454,7 +461,7 @@
       <file name="/dummy.sql" timestamp="1554558841845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559718650741">
+      <file name="/Dummy.txt" timestamp="1560324662022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -474,7 +481,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/local_transfer.rb" timestamp="1552451844893">
         <mark key="[" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/helpers/spreeeed_engine/attributes_helper.rb" timestamp="1553585622873">
+      <file name="$USER_HOME$/repositories/kirimi/lib/spreeeed_engine/app/helpers/spreeeed_engine/attributes_helper.rb" timestamp="1560325001763">
         <mark key="[" line="74" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/spreeeed_crm/app/controllers/api/application_controller.rb" timestamp="1553819245389">
@@ -734,6 +741,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/kirimi-chat/db/seeds/002_default_users.rb" timestamp="1560324601624">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="/fragment.rb" timestamp="1558479928375">
         <mark key="[" line="0" column="0" />
@@ -1045,8 +1058,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/models/concerns/spreeeed_engine/models/fee.rb" timestamp="1553579932740">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1559706636804">
-        <mark key="[" line="67" column="53" />
+      <file name="$USER_HOME$/repositories/kirimi/app/models/user.rb" timestamp="1560324638257">
         <mark key="]" line="35" column="11" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
@@ -1131,16 +1143,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fontawesome</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>fontawesome</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgZm9udC1hd2Vzb21lL3N2Zy13aXRoLWpzL2pzL2ZvbnRhd2Vzb21lLWFsbAo=</text>
+        <text encoding="base64">ICB7IDp1aWQgPT4gIis4ODY5NTU1MTkxOTkiIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5kCg==</text>
