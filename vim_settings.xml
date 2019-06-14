@@ -375,6 +375,7 @@
         <mark key="^" line="81" column="31" />
         <mark key="." line="81" column="31" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler/gems/spreeeed_engine-bd9a384c1d94/app/assets/stylesheets/spreeeed_engine/style.css" timestamp="1560472826697" />
       <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1559000257063">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="8" column="9" />
@@ -468,6 +469,12 @@
         <mark key="]" line="17" column="73" />
         <mark key="^" line="17" column="73" />
         <mark key="." line="17" column="73" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/layouts/admin/backbone.html.erb" timestamp="1560473652550">
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
+        <mark key="^" line="69" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/app/models/application_record.rb" timestamp="1552006924657">
         <mark key="[" line="2" column="44" />
@@ -1150,50 +1157,50 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA0MDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IDp1aWQgPT4gIis4ODY5NTU1MTkxOTkiIH0sCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA0MDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA0MDAhOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXNlbnQgZmVlLCB3aXRoOiBGZWVTZXJpYWxpemVyLm5ldwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByZXNlbnQgZmVlLCB3aXRoOiBGZWVTZXJpYWxpemVyLm5ldwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGN1cnJlbnRfdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIGN1cnJlbnRfdXNlcgo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1269,6 +1276,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
