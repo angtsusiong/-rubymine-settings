@@ -201,7 +201,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561492998530">
+      <file name="/GraphQL.result.json" timestamp="1561494579220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -923,7 +923,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/kirimi/Gemfile" timestamp="1561492964357">
+      <file name="$USER_HOME$/repositories/kirimi/Gemfile" timestamp="1561494585838">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="20" column="19" />
@@ -1079,7 +1079,7 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="67" column="50" />
       </file>
-      <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1561493054045">
+      <file name="$USER_HOME$/repositories/spreeeed_crm/Gemfile" timestamp="1561495376740">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -1111,6 +1111,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao/Gemfile" timestamp="1561495257503">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/lib/grape_devise_token_auth/auth_headers.rb" timestamp="1558483329978">
         <mark key="[" line="39" column="38" />
@@ -1169,8 +1175,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1182,37 +1188,37 @@
         <text encoding="base64">CQkJCTxsaT48YSBocmVmPSI8JT0gU2V0dGluZ3MuZmFjZWJvb2suZmFuX3BhZ2VfdXJsICU+IiB0YXJnZXQ9Il9ibGFuayI+6IGv57Wh5oiR5YCRPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsZXgtYmFzaXM6IGZpdC1jb250ZW50Owo=</text>
+        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXgtYmFzaXM6IGZpdC1jb250ZW50Owo=</text>
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsZXgtd3JhcDogd3JhcDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogc3RyZXRjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXgtYmFzaXM6IDsK</text>
+        <text encoding="base64">IyBVc2UgUmFjayBDT1JTIGZvciBoYW5kbGluZyBDcm9zcy1PcmlnaW4gUmVzb3VyY2UgU2hhcmluZyAoQ09SUyksIG1ha2luZyBjcm9zcy1vcmlnaW4gQUpBWCBwb3NzaWJsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnZW0gJ2pidWlsZGVyJywgJ34+IDIuNScK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im9yZGVyX2luc3RydWN0aW9uIGFmdGVyX2xvZ2luX2FuZF9yZWdpc3Rlcl9teV9hY2NvdW50X215X29yZGVyIj4KICAgICAgPGg0PuioguWWrueLgOaFi+iqquaYjjwvaDQ+CiAgICAgIDxiciAvPgogICAgICA8cD48c3BhbiBjbGFzcz0idW5wcm9jZXNzZWQiPuWwmuacquiZleeQhjwvc3Bhbj4gLSDkuIvoqILoqILllq7lvozpnIDopoHkvZzmpa3mmYLplpPvvIzliJfljbDlvozmiY3mnIPmm7TmlLnngrromZXnkIbkuK3vvIznhanoq4vlrqLkurrogJDlv4PnrYnlvoXjgII8L3A+CiAgICAgIDxwPjxzcGFuIGNsYXNzPSJwcm9jZXNzZWQiPuiZleeQhuS4rTwvc3Bhbj4gLSDnm67liY3mraPlnKjomZXnkIbmoLjlsI3luLPmrL7lkozoqILllq7jgII8L3A+CiAgICAgIDxwPjxzcGFuIGNsYXNzPSJjb21wbGV0ZSI+5bey5Ye66LKoPC9zcGFuPiAtIOW3suWcqOeVtuaXpeWvhOWHuu+8jOe0hCAxIC0gMiDlpKnlhafpgIHpgZTjgII8L3A+CiAgICAgIDxwPjwlPSBpbWFnZV90YWcoJ2Zyb250ZW5kL2JhbmsuanBnJyAsIGNsYXNzOiAnYmFua19hY2NvdW50JykgJT48L3A+Cg==</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
