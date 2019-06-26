@@ -574,11 +574,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/caocao/app/models/user.rb" timestamp="1561538290814">
+      <file name="$USER_HOME$/repositories/caocao/app/models/user.rb" timestamp="1561539187842">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="]" line="3" column="48" />
         <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi-doc/source/includes/_auth.md" timestamp="1555055514142">
         <mark key="[" line="29" column="19" />
@@ -603,6 +603,12 @@
         <mark key="]" line="21" column="17" />
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao/app/models/jwt_blacklist.rb" timestamp="1561539484378">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v1/user/profiles.rb" timestamp="1559710480555">
         <mark key="[" line="21" column="45" />
@@ -1050,6 +1056,9 @@
         <mark key="." line="79" column="76" />
         <mark key="^" line="79" column="76" />
       </file>
+      <file name="$USER_HOME$/repositories/caocao/db/migrate/20190626085305_create_jwt_blacklist.rb" timestamp="1561539245993">
+        <mark key="[" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/app/views/frontend/orders/_invoice_details.erb" timestamp="1557838967882">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
@@ -1076,6 +1085,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1555659699388">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao/config/initializers/inflections.rb" timestamp="1561539113147">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/db/migrate/20190508064520_add_alpha_order_id_to_shopping_cart_orders.rb" timestamp="1557299428634">
         <mark key="[" line="3" column="19" />
@@ -1193,17 +1208,17 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUsIDp0cmFja2FibGUgYW5kIDpvbW5pYXV0aGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxsaT48YSBocmVmPSI8JT0gU2V0dGluZ3MuZmFjZWJvb2suZmFuX3BhZ2VfdXJsICU+IiB0YXJnZXQ9Il9ibGFuayI+6IGv57Wh5oiR5YCRPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">IyAgIGluZmxlY3QuYWNyb255bSAnUkVTVGZ1bCcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUsIDp0cmFja2FibGUgYW5kIDpvbW5pYXV0aGFibGUK</text>
