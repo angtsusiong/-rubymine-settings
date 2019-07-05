@@ -351,11 +351,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/frontend/orders/_choose_deliver_way_form.html.erb" timestamp="1559319219628">
-        <mark key="[" line="81" column="30" />
-        <mark key="]" line="81" column="31" />
-        <mark key="^" line="81" column="31" />
-        <mark key="." line="81" column="31" />
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/frontend/orders/_choose_deliver_way_form.html.erb" timestamp="1562314860728">
+        <mark key="[" line="114" column="79" />
+        <mark key="]" line="114" column="77" />
+        <mark key="." line="114" column="77" />
+        <mark key="^" line="114" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/settings.yml" timestamp="1559000257063">
         <mark key="[" line="5" column="30" />
@@ -662,6 +662,10 @@
       </file>
       <file name="$USER_HOME$/repositories/ebook-backend/config/environments/production.rb" timestamp="1552006262868">
         <mark key="[" line="19" column="69" />
+      </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/frontend/orders/_receiver_details.erb" timestamp="1562314647386">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/config/locales/models/shopping_cart/order/zh-TW.yml" timestamp="1557377298050">
         <mark key="[" line="38" column="24" />
@@ -1008,6 +1012,7 @@
       <file name="/JavaScript Console" timestamp="1555659699388">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/frontend/orders/choose_deliver_way.html.erb" timestamp="1562314259655" />
       <file name="$USER_HOME$/repositories/chu-seafood/db/migrate/20190508064520_add_alpha_order_id_to_shopping_cart_orders.rb" timestamp="1557299428634">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="0" column="34" />
@@ -1109,8 +1114,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/kirimi/app/uploaders/image_uploader.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>schema.rb'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>schema.rb'</text>
@@ -1119,40 +1124,40 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gJ2RiL3NjaGVtYS5yYicK</text>
+        <text encoding="base64">ICAgIDxsYWJlbCBjbGFzcz0iYmlsbGluZyI+5YKZ6Ki7OjwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUsIDp0cmFja2FibGUgYW5kIDpvbW5pYXV0aGFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIEluY2x1ZGUgZGVmYXVsdCBkZXZpc2UgbW9kdWxlcy4gT3RoZXJzIGF2YWlsYWJsZSBhcmU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dmFsaWRhdGFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogPCU9IEVOVlsnQ0FPQ0FPX0RBVEFCQVNFX1BBU1NXT1JEJ10gJT4K</text>
+        <text encoding="base64">ICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUsIDp0cmFja2FibGUgYW5kIDpvbW5pYXV0aGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogY2FvY2FvCg==</text>
+        <text encoding="base64">ICAjIEluY2x1ZGUgZGVmYXVsdCBkZXZpc2UgbW9kdWxlcy4gT3RoZXJzIGF2YWlsYWJsZSBhcmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dmFsaWRhdGFibGUK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">cXVvdGFfZ2lmdC5uYW1lIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXNzd29yZDogPCU9IEVOVlsnQ0FPQ0FPX0RBVEFCQVNFX1BBU1NXT1JEJ10gJT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
