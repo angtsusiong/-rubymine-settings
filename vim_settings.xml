@@ -108,7 +108,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/sync/a9g-spreeeed/kirimi/lib/grape_devise_token_auth/token_authorizer.rb" timestamp="1561713932475" />
       <file name="/dummy.txt" timestamp="1559718170569">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,11 +189,10 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/sync/a9g-spreeeed/kirimi/app/models/fee.rb" timestamp="1561711286952" />
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561711258956">
+      <file name="/GraphQL.result.json" timestamp="1562312994712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -377,7 +375,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1561693016336">
+      <file name="/Ruby Console" timestamp="1562313080519">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi-chat/app/models/user.rb" timestamp="1560324625083">
