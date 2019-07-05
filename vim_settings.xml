@@ -36,6 +36,12 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="54" />
       </file>
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/controllers/application_controller.rb" timestamp="1562317124385">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/chu-seafood/test/controllers/frontend/orders_controller_test.rb" timestamp="1557823335888">
         <mark key="[" line="45" column="38" />
       </file>
@@ -375,7 +381,7 @@
         <mark key="^" line="41" column="80" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="/Ruby Console" timestamp="1562313080519">
+      <file name="/Ruby Console" timestamp="1562317132565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/kirimi-chat/app/models/user.rb" timestamp="1560324625083">
