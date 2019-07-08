@@ -890,11 +890,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/models/shopping_cart/order.rb" timestamp="1562581895684">
-        <mark key="[" line="52" column="100" />
-        <mark key="]" line="52" column="110" />
-        <mark key="." line="52" column="110" />
-        <mark key="^" line="52" column="110" />
+      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/models/shopping_cart/order.rb" timestamp="1562584143769">
+        <mark key="[" line="158" column="39" />
+        <mark key="]" line="158" column="79" />
+        <mark key="." line="158" column="79" />
+        <mark key="^" line="158" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/chu-seafood/docker/app/Dockerfile" timestamp="1557138820689">
         <mark key="[" line="22" column="24" />
