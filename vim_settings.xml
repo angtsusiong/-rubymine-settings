@@ -198,7 +198,7 @@
       <file name="$USER_HOME$/repositories/kirimi/app/controllers/api/v2/concerns/api.rb" timestamp="1552490376309">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1562581391335">
+      <file name="/GraphQL.result.json" timestamp="1564193023943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/shrine-rails-example/app/controllers/application_controller.rb" timestamp="1554231402671">
@@ -264,7 +264,6 @@
       <file name="$USER_HOME$/repositories/caocao/db/migrate/20190626082443_devise_create_users.rb" timestamp="1561690517199">
         <mark key="[" line="33" column="76" />
       </file>
-      <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/models/concerns/cart/order/states.rb" timestamp="1562581889435" />
       <file name="$USER_HOME$/repositories/chu-seafood-recovery/app/views/layouts/frontend/_footer.html.erb" timestamp="1560493935040">
         <mark key="[" line="53" column="50" />
         <mark key="]" line="53" column="50" />
