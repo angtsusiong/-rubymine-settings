@@ -19,6 +19,7 @@
       <mapping ext="passenger" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="m1FeToJDr0DNtxT21oVo51MXVKLbcdR2UEgEGMT5ZYw" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
