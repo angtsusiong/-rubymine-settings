@@ -2,21 +2,22 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".simplecov" type=".env file" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <removed_mapping pattern=".dockerignore" type="Docker file" />
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="sidekiq" type="Dockerfile" />
+      <mapping ext="passenger" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="alpine" type="Dockerfile" />
-      <mapping ext="passenger" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
